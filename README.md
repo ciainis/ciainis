@@ -3,13 +3,13 @@ I am Marco and I am a frontend developer. I come from Italy 🇮🇹 &nbsp; and 
 
 
 ### ⚒ &nbsp; Tecnhologies
-<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="HTML 5 logo vector" height="50" > &nbsp; 
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3 logo vector" height="50" > &nbsp; 
+<img src="./svg/javascript.svg" alt="HTML 5 logo vector" height="50" > &nbsp; 
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3 logo vector" height="50" > &nbsp; 
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript logo vector" height="50" > &nbsp; 
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React logo vector" height="50" > &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby logo vector" height="50" > &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS logo vector" height="50"> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL logo vector" height="50" > 
+<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL logo vector" height="50" >  -->
 
 
 ### 📫 &nbsp; Where to find me
