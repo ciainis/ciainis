@@ -11,9 +11,6 @@ I am Marco and I am a frontend developer. I come from Italy 🇮🇹 &nbsp; and 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS logo vector" height="50"> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL logo vector" height="50" > 
 
-### 🌱 &nbsp; Currently learning
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo vector" height="50"> 
-
 
 ### 📫 &nbsp; Where to find me
 - [LinkedIn](https://linkedin.com/in/m-crippa/)
