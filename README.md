@@ -15,8 +15,6 @@ I am Marco and I am a frontend developer. I come from Italy 🇮🇹 &nbsp; and 
 ### 📫 &nbsp; Where to find me
 - [LinkedIn](https://linkedin.com/in/m-crippa/)
 - [Instagram](https://instagram.com/ciainiss)
-- [Spotify](https://open.spotify.com/artist/47cvRkUZz6IvCX02NfGL4q)
-
 
 <!--
 **ciainis/ciainis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
