@@ -1,6 +1,4 @@
 # Hi there! 👋
-I am Marco and I am a frontend developer. I come from Italy 🇮🇹 &nbsp; and live in Berlin 🇩🇪 &nbsp;. 
-
 
 ### ⚒ &nbsp; Tecnhologies
 <img src="./svg/html-5.svg" alt="HTML 5 logo vector" height="50" > &nbsp; 
